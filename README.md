@@ -1,6 +1,6 @@
 <h1 align="center">Henry Parker</h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Founder+of+HP+OS+%26+HP+Modern+Studio;Building+local-first+AI+tools;Product-minded+developer+from+Vietnam" alt="Typing SVG" /></p>
+<p align="center"><a href="https://hpmodernstudio.com/"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Founder+of+HP+OS+%26+HP+Modern+Studio;Building+local-first+AI+tools;Product-minded+developer+from+Vietnam" alt="Typing SVG" /></a></p>
 
 <p align="center">PRODUCT-MINDED DEVELOPER<br /><strong>Founder · HP OS &amp; HP Modern Studio</strong><br />Building local-first AI tools, agent workflows, and practical software.</p>
 
